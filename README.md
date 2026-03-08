@@ -1,1 +1,1 @@
-# This repo is only for getting bages from github
+# This repo is only for getting bages
