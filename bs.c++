@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    vector<int> nums{3, 1, 2};
+    vector<int> nums{3, 1, 2 , 8 , 12 , 15};
     int low = 0;
     int high = nums.size() - 1;
 
