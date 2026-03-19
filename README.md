@@ -1,1 +1,1 @@
-# This repo is only for getting bages
+# This repo is for yolo for getting bages
